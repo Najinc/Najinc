@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on **a web browser**
 
-- 🌱 I’m currently learning **python (PyQt), PHP, Rust, JavaScript**
+- 🌱 I’m currently learning **Javascript (React, NextJS, Ajax), PHP (Symfony, EasyAdmin),  Python, Rust, C#**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 🤝 I’m looking for help with **our web browser**
-
-- 💬 Ask me about **PyQt, Tauri, PHP**
+- 💬 Ask me about **React, Symfony, Python**
 
 - 📫 How to reach me **najib.chafei@etudiant.univ-reims.fr OR chafei.najib@gmail.com**
 
