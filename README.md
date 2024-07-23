@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najinc" alt="najinc" /></a> </p>
 
-- 🔭 I’m currently working on **a web browser**
+- 🔭 I’m currently working on **a SaaS**
 
-- 🌱 I’m currently learning **Javascript (React, NextJS, Ajax), PHP (Symfony, EasyAdmin),  Python, Rust, C#**
+- 🌱 I’m currently learning **Javascript (React, NextJS, NuxtJS, ReactKS), PHP (Symfony, EasyAdmin, API Platform),  Python, Rust, C#**
 
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👯 I’m looking to collaborate on **SaaS Projects** & **website Projects**
 
-- 💬 Ask me about **React, Symfony, Python**
+- 💬 Ask me about **React, Nuxt, Python**
 
 - 📫 How to reach me **najib.chafei@etudiant.univ-reims.fr OR chafei.najib@gmail.com**
 
