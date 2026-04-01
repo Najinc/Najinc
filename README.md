@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Nuxt, Python**
 
-- 📫 How to reach me **najib.chafei@etudiant.univ-reims.fr OR chafei.najib@gmail.com**
+- 📫 How to reach me **chafei.najib@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
